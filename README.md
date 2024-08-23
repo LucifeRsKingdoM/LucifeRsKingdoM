@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LucifeR
 - 👀 I’m interested in --  software development, machine learning, web development
-- 🌱 I’m currently learning --  Mean-Mern Stack, JavaScript frameworks
+- 🌱 I’m currently learning -- Mern Stack, JavaScript frameworks
 - 💞️ I’m looking to collaborate on -- Developing Websites & web application
 - 📫 How to reach me -- @-mail  - yogesh490807@gmail.com
 - 😄 Pronouns: -- He/Him
