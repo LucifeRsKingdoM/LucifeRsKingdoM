@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LucifeR
-- 👀 I’m interested in --  software development, machine learning, web development
+- 👀 I’m interested in --  Software Development, Machine Learning, Web Development
 - 🌱 I’m currently learning -- Mern Stack, JavaScript frameworks
 - 💞️ I’m looking to collaborate on -- Developing Websites & web application
 - 📫 How to reach me -- @-mail  - yogesh490807@gmail.com
