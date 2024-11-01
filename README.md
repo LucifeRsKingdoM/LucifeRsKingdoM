@@ -1,8 +1,8 @@
 - 👋 Hi, I’m LucifeR
 - 📩 How to reach me -- @-mail  - yogesh490807@gmail.com
 - 👀 I’m interested in --  Software Development, Web Development, React Developer
-- 🌱 I’m currently learning -- Mern Stack, JavaScript frameworks React
 - 🎗️ LINKEDIN Profile -- " https://www.linkedin.com/in/yogesh490807/ "
+- 🌱 I’m currently learning -- Mern Stack, JavaScript frameworks React
 - 💞️ I’m looking to collaborate on -- Developing Websites & web application
 - 📫 Download Resume -- " https://drive.google.com/file/d/12sAAf_2rq-XwJ4Deo3RyWIf-B-qLWLNB/view "
 - 😄 Pronouns: -- He/Him
