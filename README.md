@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LucifeR
+- 👋 Hi, I’m LucifeR  -  - 👨‍💻 Visit Portfolio -- " https://luciferskingdom.github.io/Portfolio/ "
 - 📩 How to reach me -- @-mail  - yogesh490807@gmail.com
 - 👀 I’m interested in --  Software Development, Web Development, React Developer
 - 🎗️ LINKEDIN Profile -- " https://www.linkedin.com/in/yogesh490807/ "
@@ -7,7 +7,7 @@
 - 📫 Download Resume -- " https://drive.google.com/file/d/12sAAf_2rq-XwJ4Deo3RyWIf-B-qLWLNB/view "
 - 😄 Pronouns: -- He/Him
 - ⚡ Fun fact: -- I am not a great developer, but i think i am good one.. .
-- 👨‍💻 Visit Portfolio -- " https://luciferskingdom.github.io/Portfolio/ "
+
 
 <!---
 LucifeRsKingdoM/LucifeRsKingdoM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
